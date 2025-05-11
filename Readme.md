@@ -46,7 +46,7 @@
   <li>
     <strong>Clone the repository:</strong>
     <pre><code class="language-bash">
-git clone https://github.com/yourusername/ai-research-analyzer.git
+git clone https://github.com/Amritatiwari611/AI_Research_Paper_Analyzer.git
 cd ai-research-analyzer
     </code></pre>
   </li>
